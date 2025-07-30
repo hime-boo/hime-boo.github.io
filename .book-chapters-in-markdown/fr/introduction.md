@@ -1,0 +1,13 @@
+Dans un petit temple de Namba, à Osaka, cent passionnés d'*ōgi* se retrouvent pour une soirée pas comme les autres. Ils vont participer au *hyakumonogatari kaidankai* – une vieille tradition japonaise où chacun raconte une histoire étrange avant d'éteindre sa bougie.
+
+Quatre-vingt-dix-neuf flammes forment un cercle dans la grande salle. Au centre brûle la centième, protégée par un lampion bleu. C'est là que se tient le Président de l'association, gardien de la dernière histoire.
+
+Quand toutes les lumières s'éteindront, dit la légende, quelque chose d'extraordinaire se produira.
+
+Les participants ne sont pas des conteurs professionnels. Ce sont des gens comme vous et moi : étudiants, employés, commerçants, retraités... Unis par leur passion pour l'*ōgi*, ce jeu de stratégie moderne qui les rassemble chaque semaine.
+
+Ce soir, ils vont partager leurs expériences personnelles. Pas de fantômes en kimono ni de monstres mythiques – juste des événements troublants survenus dans les rues familières d'Osaka, dans les immeubles où l'on vit, les boutiques où l'on fait ses courses. Des choses étranges qui arrivent quand on s'y attend le moins.
+
+Les bougies sont allumées. Le silence se fait.
+
+La première histoire va commencer.

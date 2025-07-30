@@ -1,0 +1,51 @@
+# Configuration Jekyll
+title: "関西百物語〜青姫〜"
+description: "大阪・難波の小さな寺に、百人の王棋（おうぎ）愛好家が集う夜。"
+baseurl: ""
+url: "https://kansai.hyakumonogatari.ao.hime.boo"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Collections
+collections:
+  fr:
+    output: true
+    permalink: /:collection/:name/
+  en:
+    output: true
+    permalink: /:collection/:name/
+  ja:
+    output: true
+    permalink: /:collection/:name/
+  zh:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: "_fr"
+      type: "fr"
+    values:
+      lang: "fr"
+  - scope:
+      path: "_en"
+      type: "en"
+    values:
+      lang: "en"
+  - scope:
+      path: "_ja"
+      type: "ja"
+    values:
+      lang: "ja"
+  - scope:
+      path: "_zh"
+      type: "zh"
+    values:
+      lang: "zh"
